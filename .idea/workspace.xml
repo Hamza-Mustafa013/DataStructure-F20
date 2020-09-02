@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38a41b32-8fd7-41ce-a236-32afad630dc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignment 1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -188,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598696763973</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Algorithm of selection sort">
+      <created>1599066766639</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599066766639</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +215,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="In this lecture wewill learn with stack&#10;And use FIFO" />
     <MESSAGE value="In this lecture wewill learn with stack&#10;And use LIFO" />
-    <option name="LAST_COMMIT_MESSAGE" value="In this lecture wewill learn with stack&#10;And use LIFO" />
+    <MESSAGE value="Algorithm of selection sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algorithm of selection sort" />
   </component>
 </project>

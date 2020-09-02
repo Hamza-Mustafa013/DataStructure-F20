@@ -1,4 +1,4 @@
-def sorting(list):
+def selection_sort(list):
     counter1 = 0
     while counter1 < len(list):
         counter2 = counter1 + 1
@@ -10,4 +10,4 @@ def sorting(list):
             counter2 = counter2 + 1
         counter1 = counter1 + 1
     print(list)
-sorting([7,5,4,9,3,1])
+selection_sort([1,4,3,5,2])
