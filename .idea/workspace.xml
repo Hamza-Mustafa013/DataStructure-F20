@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38a41b32-8fd7-41ce-a236-32afad630dc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Bubble sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insertion sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selection sort.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Bubble sort">
+  <component name="RunManager" selected="Python.Selection sort">
     <configuration name="Assignment 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructure-F20" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lecture2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Selection sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructure-F20" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selection sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Selection sort" />
         <item itemvalue="Python.Bubble sort" />
         <item itemvalue="Python.insertion sort" />
         <item itemvalue="Python.Assignment 1" />
         <item itemvalue="Python.Lecture1" />
-        <item itemvalue="Python.Lecture2" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599071705023</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Algorithm of selection sort">
+      <created>1601758792941</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601758792941</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Algorithm of Bubble sort">
+      <created>1601758905943</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601758905943</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,6 +258,7 @@
     <MESSAGE value="In this lecture wewill learn with stack&#10;And use FIFO" />
     <MESSAGE value="In this lecture wewill learn with stack&#10;And use LIFO" />
     <MESSAGE value="Algorithm of selection sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Algorithm of selection sort" />
+    <MESSAGE value="Algorithm of Bubble sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algorithm of Bubble sort" />
   </component>
 </project>
